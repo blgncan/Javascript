@@ -1,0 +1,17 @@
+.editButton{
+    border: none;
+    background: none;
+    color:blue;
+}
+.editButton:hover{
+    color: brown;
+}
+
+.deleteButton{
+    border: none;
+    background: none;
+    color:blue;
+}
+.deleteButton:hover{
+    color: brown;
+}
